@@ -1,0 +1,23 @@
+body {
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    background: transparent;
+}
+
+div:first-child {
+    margin-top: 0px;
+}
+
+div {
+    cursor: pointer;
+    text-align: center;
+    padding: 10px 20px;
+    width: 150px;
+    margin-top: 1px;
+    background: #cccccc;
+}
+
+div:hover {
+    background: aliceblue;
+}
